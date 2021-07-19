@@ -1,0 +1,76 @@
+body{
+    background-color: #C9D8B6;
+    width: 100%;
+    font-family: Arial, sans-serif;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 150px;
+}
+/* p{
+    margin-left: 20px;
+} */
+
+.Info tr td{
+    padding-left: 20px;
+}
+
+hr {
+    width: 80%;
+    display: block;
+    border-width: 2px;
+  }
+  .project{
+      margin-left: 10%;
+      width: 80%;
+  }
+
+  .project tr th{
+      width: 25%;
+  }
+  .project tr td{
+    padding: 10px;
+    width: 25%;
+    text-align: justify;
+}
+h2{
+    padding-left: 10%;
+}
+.Skills
+{
+    margin-left: 10%;
+    width: 80%;
+    
+}
+.Skills tr td{
+    padding: 10px;
+    
+}
+form{
+    padding-left: 20%;
+}
+h3{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.submit-button {
+    background: #0066A2;
+    color: white;
+    border-color: #0066A2;
+    height: 50px;
+    width: 100px;
+    font: bold 15px arial, sans-serif;
+}
+
+footer
+{
+    margin-top: 20px;
+    width: 100%;
+    height: 60px;
+    background-color:black;
+    color: cornsilk;
+    text-align: center;
+    line-height: 50px;
+}
